@@ -10,3 +10,6 @@
 [submodule "paypay-domain"]
 	path = paypay-domain
 	url = https://github.com/ricardoSANICK/paypay-domain.git
+[submodule "paypay-core-api"]
+	path = paypay-core-api
+	url = https://github.com/ricardoSANICK/paypay-core-api.git
