@@ -13,3 +13,6 @@
 [submodule "paypay-core-api"]
 	path = paypay-core-api
 	url = https://github.com/ricardoSANICK/paypay-core-api.git
+[submodule "paypay-baymax-frontend-vue"]
+	path = paypay-baymax-frontend-vue
+	url = https://github.com/ricardoSANICK/paypay-baymax-frontend-vue.git
