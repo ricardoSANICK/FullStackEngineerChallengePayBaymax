@@ -7,3 +7,6 @@
 [submodule "paypay-middleware-api"]
 	path = paypay-middleware-api
 	url = https://github.com/ricardoSANICK/paypay-middleware-api.git
+[submodule "paypay-domain"]
+	path = paypay-domain
+	url = https://github.com/ricardoSANICK/paypay-domain.git
