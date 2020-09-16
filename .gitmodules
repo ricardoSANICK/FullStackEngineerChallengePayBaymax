@@ -16,3 +16,6 @@
 [submodule "paypay-baymax-frontend-vue"]
 	path = paypay-baymax-frontend-vue
 	url = https://github.com/ricardoSANICK/paypay-baymax-frontend-vue.git
+[submodule "paypay-contratos"]
+	path = paypay-contratos
+	url = https://github.com/ricardoSANICK/paypay-contratos.git
