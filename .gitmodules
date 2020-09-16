@@ -1,0 +1,3 @@
+[submodule "paypay-commons"]
+	path = paypay-commons
+	url = https://github.com/ricardoSANICK/paypay-commons.git
