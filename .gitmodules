@@ -4,3 +4,6 @@
 [submodule "paypay-security"]
 	path = paypay-security
 	url = https://github.com/ricardoSANICK/paypay-security.git
+[submodule "paypay-middleware-api"]
+	path = paypay-middleware-api
+	url = https://github.com/ricardoSANICK/paypay-middleware-api.git
